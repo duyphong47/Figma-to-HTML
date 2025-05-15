@@ -9,6 +9,8 @@ html {
   --primary-color: #FFB900;
 }
 
+
+
 /* Khôi phục lại cỡ chữ mặc định theo rem*/
 body {
   font-size: 1.6rem;
